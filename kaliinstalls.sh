@@ -2,7 +2,7 @@
 
 #update & upgrade kali
 echo "Updating Kali"
-sudo apt-get update && sudo apt-get upgrade
+sudo apt-get update
 
 #download apps/tools
 echo "Tools will be downloaded in /opt/ folder"
